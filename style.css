@@ -9,6 +9,10 @@
     font-family: "yekan";
 }
 
+:root.dark {
+    color-scheme: dark;
+}
+
 body {
     display: flex;
     justify-content: center;

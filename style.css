@@ -30,6 +30,7 @@ body {
 .content {
     text-align: justify;
 }
+
 .feedback-container {
     margin-top: 20px;
     display: flex;
